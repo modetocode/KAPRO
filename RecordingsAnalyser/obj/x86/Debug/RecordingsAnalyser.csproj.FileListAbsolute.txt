@@ -1,0 +1,48 @@
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\RecordingsAnalyser.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\RecordingsAnalyser.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\obj\x86\Debug\RecordingsAnalyser.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\obj\x86\Debug\RecordingsAnalyser.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\RecordingsAnalyser\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\RecordingsAnalyser.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\RecordingsAnalyser.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\obj\x86\Debug\RecordingsAnalyser.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\RecordingsAnalyser\obj\x86\Debug\RecordingsAnalyser.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\RecordingsAnalyser.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\RecordingsAnalyser.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\obj\x86\Debug\RecordingsAnalyser.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\RecordingsAnalyser\obj\x86\Debug\RecordingsAnalyser.pdb

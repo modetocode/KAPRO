@@ -1,0 +1,6 @@
+D:\HMM\accord-hmm-source\Release\Accord.Math.XML
+D:\HMM\accord-hmm-source\Release\Accord.Math.dll
+D:\HMM\accord-hmm-source\Release\Accord.Math.pdb
+D:\HMM\accord-hmm-source\Sources\Accord.Math\obj\Release\ResolveAssemblyReference.cache
+D:\HMM\accord-hmm-source\Sources\Accord.Math\obj\Release\Accord.Math.dll
+D:\HMM\accord-hmm-source\Sources\Accord.Math\obj\Release\Accord.Math.pdb

@@ -1,0 +1,39 @@
+D:\HMM\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\HMM\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Debug\ResGen.read.1.tlog
+D:\HMM\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\obj\x86\Debug\Markov.MainForm.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\obj\x86\Debug\HMM.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\obj\x86\Debug\Components.TableSelectDialog.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\Resources\example.xls
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\HMM.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\HMM.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Controls.Statistics.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Controls.Statistics.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\obj\x86\Debug\HMM.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\obj\x86\Debug\HMM.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Math.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Math.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\Resources\example.xls
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\HMM.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\HMM.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Controls.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Math.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Math.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Controls.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\bin\x86\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\obj\x86\Debug\Markov.MainForm.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\obj\x86\Debug\HMM.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\obj\x86\Debug\Components.TableSelectDialog.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\obj\x86\Debug\HMM.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMM\obj\x86\Debug\HMM.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\HMM\obj\x86\Debug\HMM.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\HMM\obj\x86\Debug\HMM.pdb

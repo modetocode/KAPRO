@@ -1,0 +1,77 @@
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\MainWindow.baml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\App.g.cs
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\MoetoOro_MarkupCompile.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\MoetoOro.g.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\MoetoOro.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\obj\x86\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\Slideshow.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\Slideshow.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\MoetoOro.exe.config
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\MoetoOro\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\MoetoOro.exe.config
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\bin\Debug\Slideshow.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\MainWindow.baml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\App.g.cs
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\MoetoOro_MarkupCompile.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\MoetoOro.g.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\MoetoOro.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\MoetoOro\obj\x86\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\MoetoOro.exe.config
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\Slideshow.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\bin\Debug\Slideshow.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\MainWindow.baml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\App.g.cs
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\MoetoOro_MarkupCompile.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\MoetoOro.g.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\MoetoOro.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\MoetoOro\obj\x86\Debug\MoetoOro.pdb

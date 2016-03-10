@@ -1,0 +1,11 @@
+D:\Least Squares Fit c#\csmpfit-a2010b6c1699\csmpfit_a2010b6c1699\src\MPFitLib\bin\Debug\MPFitLib.dll
+D:\Least Squares Fit c#\csmpfit-a2010b6c1699\csmpfit_a2010b6c1699\src\MPFitLib\bin\Debug\MPFitLib.pdb
+D:\Least Squares Fit c#\csmpfit-a2010b6c1699\csmpfit_a2010b6c1699\src\MPFitLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Least Squares Fit c#\csmpfit-a2010b6c1699\csmpfit_a2010b6c1699\src\MPFitLib\obj\Debug\MPFitLib.dll
+D:\Least Squares Fit c#\csmpfit-a2010b6c1699\csmpfit_a2010b6c1699\src\MPFitLib\obj\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\MPFitLib\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\MPFitLib\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\MPFitLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\MPFitLib\obj\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\MPFitLib\obj\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\MPFitLib\bin\Debug\MPFitLib.XML

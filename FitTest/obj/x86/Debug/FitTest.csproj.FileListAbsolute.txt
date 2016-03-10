@@ -1,0 +1,64 @@
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\bin\Debug\FitTest.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\bin\Debug\FitTest.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\bin\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\bin\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\obj\x86\Debug\FitTest.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\FitTest\obj\x86\Debug\FitTest.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\obj\x86\Debug\FitTest.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\obj\x86\Debug\FitTest.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\FitTest.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\FitTest.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\FitTest\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\FitTest.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\FitTest.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\obj\x86\Debug\FitTest.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\FitTest\obj\x86\Debug\FitTest.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\FitTest.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\FitTest.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\MoetoOro.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\MoetoOro.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\Accord.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\obj\x86\Debug\FitTest.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\FitTest\obj\x86\Debug\FitTest.pdb

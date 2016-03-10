@@ -1,0 +1,86 @@
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\MainWindow.baml
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\MainWindow.g.cs
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\App.g.cs
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads_MarkupCompile.cache
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.g.resources
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.Properties.Resources.resources
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.exe
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.pdb
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.exe
+c:\users\darkolaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\DarkoLaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\DarkoLaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\DarkoLaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\Slideshow.exe
+C:\Users\DarkoLaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\DarkoLaptop\documents\visual studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\Slideshow.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\MainWindow.baml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\App.g.cs
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads_MarkupCompile.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.g.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\MainWindow.baml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\App.g.cs
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads_MarkupCompile.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.g.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.exe.config
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.exe.config
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\MainWindow.baml
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\App.g.cs
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads_MarkupCompile.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.g.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\Backups\PollMethodUsingThreads backup22\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.exe.config
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\bin\Debug\PollMethodUsingThreads.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\bin\Debug\MPFitLib.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\bin\Debug\MPFitLib.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\bin\Debug\MPFitLib.xml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\MainWindow.baml
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\App.g.cs
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads_MarkupCompile.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.g.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\PollMethodUsingThreads.Properties.Resources.resources
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\final\PollMethodUsingThreads\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HMM">
+</Property><Property Name="Solution File" Value="D:\HMM\accord-hmm-source\Samples\Statistics\HMM\HMM.sln">
+</Property><Property Name="Date" Value="Friday, August 16, 2013">
+</Property><Property Name="Time" Value="10:24:30 AM">
+</Property></Properties><Event ErrorLevel="0" Project="HMM" Source="HMM.csproj" Description="Project file successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\HMM.csproj">
+</Event><Event ErrorLevel="0" Project="HMM" Source="ExcelReader.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\ExcelReader.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="MainForm.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="MainForm.Designer.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="Program.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="TableSelectDialog.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\TableSelectDialog.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="TableSelectDialog.Designer.cs" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\TableSelectDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HMM" Source="Properties\Settings.settings" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="HMM" Source="Resources\example.xls" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\Resources\example.xls">
+</Event><Event ErrorLevel="0" Project="HMM" Source="MainForm.resx" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="HMM" Source="Properties\Resources.resx" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="HMM" Source="TableSelectDialog.resx" Description="File successfully backed up as D:\HMM\accord-hmm-source\Samples\Statistics\HMM\Backup\TableSelectDialog.resx">
+</Event><Event ErrorLevel="0" Project="HMM" Source="HMM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HMM" Source="HMM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HMM" Source="HMM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

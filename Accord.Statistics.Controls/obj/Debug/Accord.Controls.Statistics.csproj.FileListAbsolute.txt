@@ -1,0 +1,10 @@
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.pdb
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\Accord.Statistics.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.dll
+C:\Users\DarkoLaptop2\Documents\Visual Studio 2010\Projects\PollMethodUsingThreads\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\Accord.Statistics.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.pdb

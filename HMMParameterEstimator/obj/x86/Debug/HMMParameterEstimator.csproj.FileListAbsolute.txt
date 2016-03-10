@@ -1,0 +1,7 @@
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMMParameterEstimator\bin\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMMParameterEstimator\bin\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMMParameterEstimator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMMParameterEstimator\obj\x86\Debug\HMMParameterEstimator.exe
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMMParameterEstimator\obj\x86\Debug\HMMParameterEstimator.pdb
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMMParameterEstimator\bin\Debug\Accord.Statistics.dll
+C:\Users\DarkoLaptop2\Dropbox\Magisterska\code\PollMethodUsingThreads\HMMParameterEstimator\bin\Debug\Accord.Statistics.pdb

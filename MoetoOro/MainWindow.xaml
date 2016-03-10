@@ -1,0 +1,37 @@
+﻿<Window x:Class="MoetoOro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Моето оро" Height="752" Width="950" xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" ResizeMode="CanMinimize" ShowInTaskbar="True" WindowStartupLocation="CenterScreen" Icon="/MoetoOro;component/Images/igraci.jpg">
+    <Window.Resources>
+        <Storyboard x:Key="InfoMessageAnimate" Storyboard.TargetName="InformationLabel">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" Duration="00:00:03" From="0" To="1" />
+        </Storyboard>
+    </Window.Resources>
+    <Grid>
+        <Image Height="714" HorizontalAlignment="Left" Margin="0,0,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="950" Source="/MoetoOro;component/Images/pozadina_21.jpg" StretchDirection="Both" />
+        <Canvas Margin="40,177,356,369">
+            <TextBlock Canvas.Left="6" Foreground="White" Canvas.Top="6" Height="53"  FontSize="18" Text="Апликацијата моментално ги опфаќа следните ора: Рамното оро, Пајдушко оро, 6 напред 3 назад" Width="520" TextWrapping="Wrap" />
+            <TextBlock Canvas.Left="6" Foreground="White" Canvas.Top="65" Height="53"  FontSize="18" Text="За крај на играњето излезете од полето на видик или кренете ги двете раце нагоре" Width="520" TextWrapping="Wrap" />
+            <TextBlock Canvas.Left="6" Foreground="White" Canvas.Top="136" Height="53"  FontSize="18" Text="Изработил: Дарко Мартиновиќ" Width="520" TextWrapping="Wrap" />
+        </Canvas>
+        <Canvas Margin="635,160,0,0">
+            <Label AllowDrop="True" Content="Последно препознаено орo" Height="32" HorizontalAlignment="Center" Name="InformationLabelTop" VerticalAlignment="Top" FontSize="18" Width="268" Foreground="White" FontWeight="Normal" FontStretch="Normal" Padding="0" HorizontalContentAlignment="Center" Canvas.Left="0" Canvas.Top="0"></Label>
+            <Label AllowDrop="True" Height="31" HorizontalAlignment="Center" Name="InformationLabel" VerticalAlignment="Top" FontSize="15" Width="200" Foreground="#FFB70707" FontWeight="Bold" Background="#FFFFCB00" FontStretch="Normal" Padding="0" HorizontalContentAlignment="Center" Canvas.Left="33" Canvas.Top="32" VerticalContentAlignment="Center"></Label>
+            <Canvas Height="100" AllowDrop="True" HorizontalAlignment="Center" Name="OnePeriodCanvas" Width="200"  UseLayoutRounding="True" Background="Silver" VerticalAlignment="Center" Canvas.Left="33" Canvas.Top="62"></Canvas>
+        </Canvas>
+        <Canvas Margin="337,398,0,0">
+            <Label Canvas.Top="0" IsEnabled="True" Content="Играчи во видик на сензорот" Canvas.Left="0" Height="35" Width="500" Background="#FFC7C5C2" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="#FFBA0000"></Label>
+            <Canvas AllowDrop="True" Height="250" HorizontalAlignment="Left" Name="SkeletonCanvas" VerticalAlignment="Top" Width="500" OpacityMask="White" OverridesDefaultStyle="True" UseLayoutRounding="False" Canvas.Left="0" Canvas.Top="32">
+                <Canvas.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFCE4D4D" Offset="0.148" />
+                        <GradientStop Color="#FFFC9898" Offset="1" />
+                    </LinearGradientBrush>
+                </Canvas.Background>
+            </Canvas>
+            <Image Canvas.Left="0" Name="NoDancerPicture" Canvas.Top="32" Source="/MoetoOro;component/Images/poraka_senzor.jpg" Width="500" Height="250"></Image>
+           </Canvas>
+           <my:KinectSensorChooser AllowDrop="True" Height="207" Name="kinectSensorChooser" Width="363" Canvas.Left="125" Canvas.Top="126" />
+    </Grid>
+   
+</Window>
